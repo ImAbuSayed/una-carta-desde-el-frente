@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/una-carta-desde-el-frente/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Una carta desde el frente](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/una-carta-desde-el-frente/) |
+| **Get License** | [Get a Licensing Quote for Una carta desde el frente](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/una-carta-desde-el-frente/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3275)
 
 ---
 
